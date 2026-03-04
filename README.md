@@ -1,16 +1,34 @@
-## Hi there 👋
+# ares-ox
+## Aerospace Cybersecurity
 
-<!--
-**ARES-OX/ares-ox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Protecting drone & aerial systems in Latin America.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What we do
+We specialize in cybersecurity for aerospace and drone systems — 
+the intersection between two worlds that rarely communicate.
+
+- 🛡️ Security audits for drone operators
+- 🔍 Vulnerability assessments for aerial systems  
+- 🌐 Critical infrastructure protection
+- 📡 Aerospace systems risk analysis
+
+---
+
+### Why it matters
+Most drone operators and aerospace companies in Latin America 
+are building fast — but leaving critical security gaps. 
+We find those gaps before attackers do.
+
+---
+
+### Based in
+Bogotá, Colombia — serving clients across Latin America and internationally.
+
+📧 contacto@ares-ox.com
+🌐 www.ares-ox.com
+
+---
+
+*Founded 2023*
